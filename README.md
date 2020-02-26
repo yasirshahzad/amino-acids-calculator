@@ -1,4 +1,8 @@
-# Calculator
+# Amino Acid Calculator
+
+This calculator calculates amino acids' molecular weight. 
+
+![Calculator Image](https://github.com/yasirshahzad/amino-acids-calculator/blob/master/cv.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
